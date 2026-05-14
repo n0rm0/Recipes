@@ -1,0 +1,22 @@
+{
+  "title": "Air Fryer Chicken Sandwich",
+  "description": "A healthier take on the crispy chicken sandwich using an air fryer.",
+  "servings": 2,
+  "prepTime": "15 minutes",
+  "cookTime": "12 minutes",
+  "ingredients": [
+    { "name": "Chicken breast", "amount": 2, "unit": "pieces", "optional": false },
+    { "name": "Panko breadcrumbs", "amount": 1, "unit": "cups", "optional": false },
+    { "name": "Egg, beaten", "amount": 1, "unit": "whole", "optional": false },
+    { "name": "Flour", "amount": 0.5, "unit": "cups", "optional": false },
+    { "name": "Brioche buns", "amount": 2, "unit": "whole", "optional": false },
+    { "name": "Pickles", "amount": 4, "unit": "pieces", "optional": true }
+  ],
+  "steps": {
+    "1": "Dredge chicken in flour, dip in egg, then coat heavily in Panko breadcrumbs.",
+    "2": "Preheat air fryer to 400°F.",
+    "3": "Spray chicken with oil and air fry, flipping halfway through. ?timer-12:00?",
+    "4": "Toast buns and assemble with chicken and pickles."
+  },
+  "tags": ["lunch", "air fryer", "chicken"]
+}
