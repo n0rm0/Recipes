@@ -1,0 +1,23 @@
+{
+  "title": "Teriyaki Fried Chicken",
+  "description": "Crispy fried chicken tossed in a sweet and savory homemade teriyaki glaze.",
+  "servings": 4,
+  "prepTime": "20 minutes",
+  "cookTime": "15 minutes",
+  "ingredients": [
+    { "name": "Chicken thighs, boneless/skinless", "amount": 1.5, "unit": "lbs", "optional": false },
+    { "name": "Cornstarch", "amount": 0.5, "unit": "cups", "optional": false },
+    { "name": "Soy sauce", "amount": 0.25, "unit": "cups", "optional": false },
+    { "name": "Mirin", "amount": 0.25, "unit": "cups", "optional": false },
+    { "name": "Brown sugar", "amount": 2, "unit": "tbsp", "optional": false },
+    { "name": "Ginger, minced", "amount": 1, "unit": "tsp", "optional": false },
+    { "name": "Vegetable oil for frying", "amount": 2, "unit": "cups", "optional": false }
+  ],
+  "steps": {
+    "1": "Cut chicken into bite-sized pieces and coat thoroughly in cornstarch.",
+    "2": "Heat oil to 350°F and fry chicken until golden brown and crispy. ?stopwatch-08:00?",
+    "3": "In a separate pan, combine soy sauce, mirin, sugar, and ginger. Simmer until thickened.",
+    "4": "Toss the crispy chicken in the sauce until evenly coated."
+  },
+  "tags": ["chicken", "asian", "fried"]
+}
