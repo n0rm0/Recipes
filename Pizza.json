@@ -1,0 +1,20 @@
+{
+  "title": "Homemade Pepperoni Pizza",
+  "description": "Simple yeast dough topped with classic marinara and pepperoni.",
+  "servings": 2,
+  "prepTime": "90 minutes",
+  "cookTime": "12 minutes",
+  "ingredients": [
+    { "name": "Pizza dough", "amount": 1, "unit": "lb", "optional": false },
+    { "name": "Pizza sauce", "amount": 0.5, "unit": "cups", "optional": false },
+    { "name": "Mozzarella cheese, shredded", "amount": 1.5, "unit": "cups", "optional": false },
+    { "name": "Pepperoni slices", "amount": 15, "unit": "pieces", "optional": false }
+  ],
+  "steps": {
+    "1": "Preheat oven to 475°F with a pizza stone or baking sheet inside.",
+    "2": "Roll out dough on a floured surface to a 12-inch circle.",
+    "3": "Spread sauce over dough, followed by cheese and pepperoni.",
+    "4": "Bake until the crust is charred and cheese is bubbly. ?timer-10:00?"
+  },
+  "tags": ["dinner", "italian", "comfort food"]
+}
