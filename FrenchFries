@@ -1,0 +1,20 @@
+{
+  "title": "Classic French Fries",
+  "description": "Double-fried russet potatoes for maximum crunch.",
+  "servings": 2,
+  "prepTime": "30 minutes",
+  "cookTime": "20 minutes",
+  "ingredients": [
+    { "name": "Russet potatoes", "amount": 3, "unit": "whole", "optional": false },
+    { "name": "Vegetable oil", "amount": 4, "unit": "cups", "optional": false },
+    { "name": "Sea salt", "amount": 1, "unit": "tsp", "optional": false }
+  ],
+  "steps": {
+    "1": "Peel and cut potatoes into 1/4 inch sticks. Soak in cold water for 20 minutes.",
+    "2": "Pat fries completely dry with paper towels.",
+    "3": "Heat oil to 300°F and blanch fries for 5 minutes. ?timer-05:00?",
+    "4": "Remove fries and increase oil heat to 375°F. Fry again until golden. ?timer-03:00?",
+    "5": "Drain on wire rack and season immediately with salt."
+  },
+  "tags": ["sides", "vegetarian", "classic"]
+}
